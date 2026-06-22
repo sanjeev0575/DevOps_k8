@@ -27,7 +27,7 @@ metadata:
 spec:
   type: NodePort
   selector:
-    app: devops-k8
+    app: nginx
   ports:
     - protocol: TCP
       port: 80
