@@ -435,7 +435,7 @@ Keep this command running.
 Open Windows hosts file as Administrator:
 
 ```text
-C:\Windows\System32\drivers\etc\hosts
+vim /etc/hosts
 ```
 
 Add:
