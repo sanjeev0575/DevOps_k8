@@ -7,7 +7,7 @@ spec:
   # CRITICAL: Links this configuration to your cluster's public ingress controller
   ingressClassName: nginx 
   rules:
-  - host: myapp.example.com  # Replace with your registered public domain name
+  - host: mydomain.local  # Replace with your registered public domain name
     http:
       paths:
       - path: /
