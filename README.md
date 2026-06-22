@@ -335,10 +335,10 @@ Example output:
 
 # Step 12: Configure Local Domain
 
-Open the Windows hosts file as Administrator:
+Open the Ubuntu hosts file as Administrator:
 
 ```text
-C:\Windows\System32\drivers\etc\hosts
+vi /etc/hosts
 ```
 
 Add the following line:
