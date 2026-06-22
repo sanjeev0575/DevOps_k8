@@ -20,6 +20,7 @@ nginx-k8s-project/
 │
 ├── index.html
 ├── Dockerfile
+|-- ingress.yaml
 ├── nginx-app.yaml
 └── README.md
 ```
