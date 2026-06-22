@@ -25,6 +25,7 @@ kind: Service
 metadata:
   name: my-service-k8
 spec:
+  type: NodePort
   selector:
     app: devops-k8
   ports:
